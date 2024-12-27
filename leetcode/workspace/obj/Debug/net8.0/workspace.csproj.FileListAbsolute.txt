@@ -1,0 +1,14 @@
+/home/leogcrocha/dev/leetcode/workspace/bin/Debug/net8.0/workspace
+/home/leogcrocha/dev/leetcode/workspace/bin/Debug/net8.0/workspace.deps.json
+/home/leogcrocha/dev/leetcode/workspace/bin/Debug/net8.0/workspace.runtimeconfig.json
+/home/leogcrocha/dev/leetcode/workspace/bin/Debug/net8.0/workspace.dll
+/home/leogcrocha/dev/leetcode/workspace/bin/Debug/net8.0/workspace.pdb
+/home/leogcrocha/dev/leetcode/workspace/obj/Debug/net8.0/workspace.GeneratedMSBuildEditorConfig.editorconfig
+/home/leogcrocha/dev/leetcode/workspace/obj/Debug/net8.0/workspace.AssemblyInfoInputs.cache
+/home/leogcrocha/dev/leetcode/workspace/obj/Debug/net8.0/workspace.AssemblyInfo.cs
+/home/leogcrocha/dev/leetcode/workspace/obj/Debug/net8.0/workspace.csproj.CoreCompileInputs.cache
+/home/leogcrocha/dev/leetcode/workspace/obj/Debug/net8.0/workspace.dll
+/home/leogcrocha/dev/leetcode/workspace/obj/Debug/net8.0/refint/workspace.dll
+/home/leogcrocha/dev/leetcode/workspace/obj/Debug/net8.0/workspace.pdb
+/home/leogcrocha/dev/leetcode/workspace/obj/Debug/net8.0/workspace.genruntimeconfig.cache
+/home/leogcrocha/dev/leetcode/workspace/obj/Debug/net8.0/ref/workspace.dll
